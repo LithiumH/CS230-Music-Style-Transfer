@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 *.h5
 matricies/
+.DS_Store
