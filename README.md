@@ -1,9 +1,10 @@
 # Music Style Transfer - Milestone Report
 
-## Members: Haojun Li (haojun), Gavin Zhang (jzhang07)
+Members: Haojun Li (haojun), Gavin Zhang (jzhang07)
 
-## Team Contributions
+Team Contributions
 Haojun - Data preprocessing. 2D CNN and Dilated CNN.
+
 Gavin Zhang - 2D CNN
 
 ## Introduction
