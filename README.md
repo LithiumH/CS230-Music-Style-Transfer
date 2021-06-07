@@ -1,4 +1,4 @@
-# Music Style Transfer - Milestone Report
+# Music Style Transfer
 
 Members: Haojun Li (haojun), Gavin Zhang (jzhang07)
 
